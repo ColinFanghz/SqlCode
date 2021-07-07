@@ -2,7 +2,7 @@ DROP TABLE IF EXISTS LHD;
 CREATE TABLE LHD (
 		
 -- 		Time TIMESTAMP 
-    Engine_Oil_Temperature int DEFAULT NULL,
+        Engine_Oil_Temperature int DEFAULT NULL,
 		Boom_and_Bucket_Pump_Pressure double DEFAULT NULL,
 		Engine_Intake_Manifold_Pressure double DEFAULT NULL,
 		Transmission_Oil_Temperature int DEFAULT NULL,
