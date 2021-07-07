@@ -1,0 +1,1 @@
+SELECT * FROM stu where gender='男' and score > 80;
